@@ -1,3 +1,13 @@
+# added by me
+- ubuntu players: http://superuser.com/questions/276596/play-mp3-or-wav-file-via-linux-command-line
+- i use mplayer
+- 
+
+## add aliases
+```
+alias pw='p wait && mplayer /home/mod/.software/p/sounds/one-bell-ship-time.wav'
+```
+
 # `p` is for people who find that other pomodoro tools slow them down.
 
 [![Build Status](https://travis-ci.org/chrismdp/p.svg)](https://travis-ci.org/chrismdp/p)
